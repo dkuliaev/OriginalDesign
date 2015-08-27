@@ -22,13 +22,14 @@ void draw()
 	}
 	// makes smile move
 	drawBody();
-
+	/*
 	if(armLeftY < 80) {
 		armLeftY = armLeftY +1;
 	} 
 	if(armLeftY > 80) {
 		armLeftY = armLeftY -1;
 	}
+	*/
 }
 void drawFace()
 {
